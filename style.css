@@ -1,0 +1,23 @@
+ body {
+     background-color: black;
+ }
+
+ h1 {
+     color: azure;
+ }
+
+ p {
+     background-color: silver;
+     color: azure;
+ }
+
+
+
+
+ .even {
+     color: greenyellow;
+ }
+
+ .odd {
+     color: orangered;
+ }
