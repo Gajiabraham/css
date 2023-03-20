@@ -93,7 +93,7 @@
  */
 
  /*-----------------------Margins----------------------*/
-
+ /*
  #box1 {
      border: 5px solid;
      width: 250px;
@@ -109,4 +109,24 @@
      height: 250px;
      font-size: 22px;
      background: green
+ }
+ */
+
+ /*-----------------------Float-------------------*/
+ img {
+     float: right;
+ }
+
+ .box {
+     width: 100px;
+     height: 100px;
+     border: 1px solid;
+     font-size: 40px;
+     text-align: center;
+     background: orange;
+     float: left;
+ }
+
+ p {
+     clear: both;
  }
