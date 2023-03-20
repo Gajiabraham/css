@@ -113,6 +113,7 @@
  */
 
  /*-----------------------Float-------------------*/
+ /*
  img {
      float: right;
  }
@@ -129,4 +130,23 @@
 
  p {
      clear: both;
+ }
+ */
+ #box1 {
+     border: 1px solid;
+     height: 300px;
+     width: 300px;
+     background-color: greenyellow;
+     position: sticky;
+     left: 200px;
+ }
+
+ #box2 {
+     border: 1px solid;
+     height: 100px;
+     width: 100px;
+     background-color: rgb(240, 189, 21);
+     position: absolute;
+     top: 100px;
+     left: 100px;
  }
