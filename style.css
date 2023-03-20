@@ -70,6 +70,7 @@
      background-attachment: fixed;
  }*/
 
+ /*
  body {
      background-image: url(Screenshot\ 2023-03-13\ 083115.jpg);
      background-repeat: no-repeat;
@@ -88,4 +89,24 @@
      background: linear-gradient(to left, skyblue, orange);
      background-repeat: no-repeat;
      background-attachment: fixed;
+ }
+ */
+
+ /*-----------------------Margins----------------------*/
+
+ #box1 {
+     border: 5px solid;
+     width: 250px;
+     height: 250px;
+     font-size: 22px;
+     background: orange;
+     margin: 50%;
+ }
+
+ #box2 {
+     border: 5px solid;
+     width: 250px;
+     height: 250px;
+     font-size: 22px;
+     background: green
  }
