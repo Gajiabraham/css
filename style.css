@@ -63,3 +63,29 @@
  */
 
  /*---------------------customizing backgrouds-----------*/
+ /*
+ body {
+     background: linear-gradient(to left, skyblue, orange);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+ }*/
+
+ body {
+     background-image: url(Screenshot\ 2023-03-13\ 083115.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;
+ }
+
+ h1 {
+     background: linear-gradient(to left, skyblue, orange);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+ }
+
+ p {
+     background: linear-gradient(to left, skyblue, orange);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+ }
