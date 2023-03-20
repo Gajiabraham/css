@@ -24,7 +24,7 @@
  }
 
  ----------end of intro to stylesheet cascading----*/
-
+ /*
  body {
      background-color: black;
 
@@ -42,3 +42,24 @@
  h1 {
      color: white;
  }
+*/
+ /*-----------------customizing borders------------------------*/
+ /*
+ p {
+     border-style: groove;
+     border-width: 8px;
+     border-color: orange;
+     border-radius: 15px;
+     padding: 2px;
+ }
+
+ h1 {
+     border-style: outset;
+     border-bottom-style: dotted;
+     border-left-style: double;
+     border-left-width: 8px;
+     border-left-color: green;
+ }
+ */
+
+ /*---------------------customizing backgrouds-----------*/
